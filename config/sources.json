@@ -1,0 +1,22 @@
+[
+  {
+    "type": "greenhouse",
+    "board": "nice",
+    "company": "NICE"
+  },
+  {
+    "type": "greenhouse",
+    "board": "fisglobal",
+    "company": "FIS"
+  },
+  {
+    "type": "lever",
+    "company": "example",
+    "company_name": "Example - replace"
+  },
+  {
+    "type": "ashby",
+    "board": "example",
+    "company": "Example - replace"
+  }
+]

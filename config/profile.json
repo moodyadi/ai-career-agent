@@ -1,0 +1,54 @@
+{
+  "name": "Aditya",
+  "experience_years": 4.5,
+  "locations": [
+    "Pune",
+    "Remote",
+    "India"
+  ],
+  "target_min_lpa": 15,
+  "notice_period_days": 90,
+  "target_titles": [
+    "DevOps Engineer",
+    "Cloud Engineer",
+    "AWS DevOps Engineer",
+    "Cloud DevOps Engineer",
+    "Site Reliability Engineer",
+    "Platform Engineer",
+    "DevOps",
+    "SRE"
+  ],
+  "skills": [
+    "AWS",
+    "Terraform",
+    "Kubernetes",
+    "EKS",
+    "Docker",
+    "Helm",
+    "Harness",
+    "Jenkins",
+    "GitHub Actions",
+    "Linux",
+    "Python",
+    "Bash",
+    "PowerShell",
+    "IAM",
+    "EC2",
+    "S3",
+    "RDS",
+    "EFS",
+    "Route 53",
+    "CloudWatch",
+    "Splunk",
+    "Dynatrace",
+    "Prometheus",
+    "Grafana"
+  ],
+  "exclude_keywords": [
+    "intern",
+    "internship",
+    "freshers",
+    "fresher",
+    "trainee"
+  ]
+}
